@@ -1,20 +1,34 @@
-![logo](https://user-images.githubusercontent.com/58411170/77952387-f2618580-72a1-11ea-95c0-b8ca510b29aa.png)
+<h1 align="center">
+  <img size="320px" alt="Be the hero" src="https://github.com/gabriel-antero/be-the-hero/blob/master/assets/logo.svg">
+</h1>
 
-Projeto desenvolvido durante a semana omnistack 11.0, por toda a comunidade Rocketseat.
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gabriel-antero/be-the-hero"> 
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gabriel-antero/be-the-hero">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gabriel-antero/be-the-hero">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gabriel-antero/be-the-hero">
+</p>
 
-## Objetivo do projeto-
-- Conectar pessoas que tem vontade de ajudar,por meio financeiro, ONGs não governamentais.
+<h4 align="center">          
+ Projeto desenvolvido durante a semana omnistack 11.0, por 
+  <a href="https://rocketseat.com.br/">Rocketseat</a>.
+</h4>
 
-Por exemplo: ONG "x" necessita de uma ajuda financeira de R$ 120,00 reais para tratar um caso "y". Sendo assim, o sujeito disposto a ajudar entrará em contato com a ONG por meio do Watsapp ou E-mail, para buscar uma forma da transação do dinheiro.
+<p align="center">
+  <a href="https://github.com/gabriel-antero/be-the-hero#objetivo-do-projeto-">Objetivo do projeto</a>
+  |
+  <a href="https://github.com/gabriel-antero/be-the-hero#constru%C3%ADdo-utilizando">Construído utilizando</a>
+</p>
 
-## Construído utilizando
-- React Native
-- ReactJS
-- NodeJS
-- Sqlite
-- Knex (Migrations)
-- Express
-- Nodemon
-- Jest
-- Celebrate
+## :dart: Objetivo do projeto
+Conectar pessoas que tem vontade de ajudar ONGs não governamentais, por meio financeiro.
 
+## :construction: Construído utilizando
+- [React Native](https://reactnative.dev/)
+- [ReactJS](https://reactjs.org/)
+- [NodeJS](https://nodejs.org/)
+- [Sqlite](https://www.sqlite.org/index.html)
+- [Knex (Migrations)](http://knexjs.org/)
+- [Express](https://expressjs.com/pt-br/)
+- [Jest](https://jestjs.io/)
+- [Celebrate](https://github.com/arb/celebrate)
