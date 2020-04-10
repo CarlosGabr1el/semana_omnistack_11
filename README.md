@@ -15,7 +15,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/gabriel-antero/be-the-hero#objetivo-do-projeto-">Objetivo do projeto</a>
+  <a href="https://github.com/gabriel-antero/be-the-hero#dart-objetivo-do-projeto">Objetivo do projeto</a>
   |
   <a href="https://github.com/gabriel-antero/be-the-hero#constru%C3%ADdo-utilizando">Construído utilizando</a>
 </p>
