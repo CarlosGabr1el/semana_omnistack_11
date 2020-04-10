@@ -32,3 +32,9 @@ Conectar pessoas que tem vontade de ajudar ONGs não governamentais, por meio fi
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
 - [Celebrate](https://github.com/arb/celebrate)
+
+
+## :memo: LICENÇA
+Projeto sobre licença MIT. Mais informações em [LICENÇA](https://github.com/gabriel-antero/be-the-hero/blob/master/LICENSE).
+
+---
