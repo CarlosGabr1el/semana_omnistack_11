@@ -17,7 +17,7 @@
 <p align="center">
   <a href="https://github.com/gabriel-antero/be-the-hero#dart-objetivo-do-projeto">Objetivo do projeto</a>
   |
-  <a href="https://github.com/gabriel-antero/be-the-hero#constru%C3%ADdo-utilizando">Construído utilizando</a>
+  <a href="https://github.com/gabriel-antero/be-the-hero#construction-constru%C3%ADdo-utilizando">Construído utilizando</a>
 </p>
 
 ## :dart: Objetivo do projeto
