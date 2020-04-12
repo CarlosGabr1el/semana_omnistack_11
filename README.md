@@ -20,6 +20,11 @@
   <a href="https://github.com/gabriel-antero/be-the-hero#construction-constru%C3%ADdo-utilizando">Construído utilizando</a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/gabriel-antero/be-the-hero/blob/master/assets/cell.gif" width=400 />
+  <img src="https://github.com/gabriel-antero/be-the-hero/blob/master/assets/desktop.gif" width=400 />
+</p>
+
 ## :dart: Objetivo do projeto
 Conectar pessoas que tem vontade de ajudar ONGs não governamentais, por meio financeiro.
 
